@@ -5,7 +5,6 @@ int largest_palindrome_product();
 int main(){
 	
 	int max = largest_palindrome_product();
-	
 	printf("%d", max);
 	
 	return 0;
